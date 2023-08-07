@@ -1,3 +1,51 @@
+.col-black{
+    color:black;
+}
+.col-white{
+    color:white;
+}
+.col-red{
+    color:red;
+}
+.col-purple{
+    color:purple;
+}
+.col-blue{
+    color:blue;
+}
+.col-orange{
+    color:orange;
+}
+.col-pink{
+    color:pink;
+}
+.col-green{
+    color:green;
+}
+.bg-black{
+    background:black;
+}
+.bg-white{
+    background:white;
+}
+.bg-red{
+    background:red;
+}
+.bg-purple{
+    background:purple;
+}
+.bg-blue{
+    background:blue;
+}
+.bg-orange{
+    background:orange;
+}
+.bg-pink{
+    background:pink;
+}
+.bg-green{
+    background:green;
+}
 .quark-sb-l{
     float:left;
 }
@@ -17,52 +65,46 @@
 .quark-link{
     font-family:verdana;
     text-decoration:none;
-    margin:25px;
-    color:white;
     transition:0.2s;
 }
 .quark-link-hv{
     font-family:verdana;
     text-decoration:none;
-    margin:25px;
-    color:white;
     transition:0.2s;
 }
 .quark-link-hv:hover{
-    color:#247ad6;
+    color:#4467e3;
 }
 .quark-link-fc{
     font-family:verdana;
     text-decoration:none;
-    margin:25px;
-    color:white;
     transition:0.2s;
 }
 .quark-link-fc:focus{
-    color:#247ad6;
+    color:#4467e3;
 }
 .quark-card{
-    border: 2px solid #13191c;
+    border: 2px solid #0a0b0d;
     border-radius:5px;
     transition:0.2s;
 }
 .quark-card-hv{
-    border: 2px solid #13191c;
+    border: 2px solid #0a0b0d;
     border-radius:5px;
     transition:0.2s;
 }
 .quark-card-hv:hover{
-    border: 2px solid #247ad6;
+    border: 2px solid #4467e3;
     border-radius:5px;
     transition:0.2s;
 }
 .quark-card-fc{
-    border: 2px solid #13191c;
+    border: 2px solid #0a0b0d;
     border-radius:5px;
     transition:0.2s;
 }
 .quark-card-fc:focus{
-    border: 2px solid #247ad6;
+    border: 2px solid #4467e3;
     border-radius:5px;
     transition:0.2s;
 }
@@ -1782,6 +1824,9 @@
 .m-120{
     margin:120px;
 }
+.m-125{
+    margin:125px;
+}
 .margin-880{
     margin:880px;
 }
@@ -3347,4 +3392,43 @@
 }
 .align-c-flex-e{
     align-content:flex-end;
+}
+.arial{
+    font-family:arial;
+}
+.verdana{
+    font-family:verdana;
+}
+.monospace{
+    font-family:monospace;
+}
+.font-arial{
+    font-family:arial;
+}
+.font-verdana{
+    font-family:verdana;
+}
+.font-monospace{
+    font-family:monospace;
+}
+.font-family-arial{
+    font-family:arial;
+}
+.font-family-verdana{
+    font-family:verdana;
+}
+.font-family-monospace{
+    font-family:monospace;
+}
+.ff-verdana{
+    font-family:verdana;
+}
+.ff-monospace{
+    font-family:monospace;
+}
+.ff-arial{
+    font-family:arial;
+}
+.ff-helvetica{
+    font-family:helvetica;
 }
